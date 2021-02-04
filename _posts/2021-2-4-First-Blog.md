@@ -1,10 +1,21 @@
 ---
 layout: post
-title: You're up and running!
+title: Jaun Elia!
 ---
+शमदहशत झझक परशानी
 
-Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
+नाज़ सेकाम यूँनह लेती,
 
-![_config.yml]({{ site.baseurl }}/images/config.png)
+आप वो जी मगर येसब या है
 
-The easiest way to make your first post is to edit this one. Go into /_posts/ and update the Hello World markdown file. For more instructions head over to the [Jekyll Now repository](https://github.com/barryclark/jekyll-now) on GitHub.
+तुम मेरा नाम यूँनह लेती,
+
+जैसेउनका येकताअत है
+
+चाँद क पघली ई चांद म
+
+आओ कुछ रंग-ए-सुख़न घोलगे
+
+तुम नह बोलती हम सेमत बोलो
+
+अब हम भी तुम सेनह बोलग
