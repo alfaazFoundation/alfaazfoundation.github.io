@@ -5,7 +5,7 @@
 Personal Blog and Poem sharing platform - https://alfaazfoundation.github.io/
 
 If you want to contribute - 
-Email - foundationalfaaz@gmai.com
+Email - foundationalfaaz@gmail.com
 
 
 ## Contributing
